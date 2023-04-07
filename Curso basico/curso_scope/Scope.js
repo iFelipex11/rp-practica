@@ -1,0 +1,1 @@
+// Existen 3 tipos de scope, esta el global,function,block
